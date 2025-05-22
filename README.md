@@ -35,7 +35,7 @@ R: I discovered a passion for digital marketing and strengthened key skills like
 ## 1. Company Profile
 
 ## 2. Brand Guide
-
+[View the Bluth Company Brand Guide] (https://github.com/rohs-b/Bluth-Company-Brand-Guide.git)
 ## RB Strength Media
 ## 1. Brand Guide
 
