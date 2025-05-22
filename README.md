@@ -35,3 +35,12 @@ R: I discovered a passion for digital marketing and strengthened key skills like
 ## 1. Company Profile
 
 ## 2. Brand Guide
+
+## RB Strength Media
+## 1. Brand Guide
+
+## 2. Media Identity and Logo
+
+
+## Website I've designed for my biography
+
