@@ -54,4 +54,20 @@ RB Strength Media is a brand I plan to bring to life once I have my Diploma.
 
 ## LinkedIn Learning Certificates
 Here are some of the LinkedIn Learning Certificates I have achieved.
+- [Finance Essentials for Small Business](https://github.com/rohs-b/Digital-Portfolio/blob/ce72282840f4b173db687f6b4d1d826860fce9c3/CertificateOfCompletion_Finance%20Essentials%20for%20Small%20Business%20(1).pdf)
+- [LoFi to HiFi Prototyping in Figma](https://github.com/rohs-b/Digital-Portfolio/blob/ce72282840f4b173db687f6b4d1d826860fce9c3/CertificateOfCompletion_LoFi%20to%20HiFi%20Prototyping%20in%20Figma.pdf)
+- [Branding Foundations 2020](https://github.com/rohs-b/Digital-Portfolio/blob/ce72282840f4b173db687f6b4d1d826860fce9c3/CertificateOfCompletion_Branding%20Foundations%202020.pdf)
+- [Content Strategy for Marketers](https://github.com/rohs-b/Digital-Portfolio/blob/ce72282840f4b173db687f6b4d1d826860fce9c3/CertificateOfCompletion_Content%20Strategy%20for%20Marketers%20(1).pdf)
+- [Adobe Certified Associate Photoshop 2019](https://github.com/rohs-b/Digital-Portfolio/blob/c91ce39a9e074ac9f25495542398e8d23c78d06c/CertificateOfCompletion_Cert%20Prep%20Adobe%20Certified%20Associate%20%20Photoshop%202019.pdf)
+- [Adobe Certified Associate InDesign](https://github.com/rohs-b/Digital-Portfolio/blob/c91ce39a9e074ac9f25495542398e8d23c78d06c/CertificateOfCompletion_Cert%20Prep%20Adobe%20Certified%20Associate%20%20InDesign.pdf)
+- [Adobe Certified Associate Illustrator](https://github.com/rohs-b/Digital-Portfolio/blob/c91ce39a9e074ac9f25495542398e8d23c78d06c/CertificateOfCompletion_Cert%20Prep%20Adobe%20Certified%20Associate%20%20Illustrator%20(1).pdf)
+  
+More avilable on request.
+
+---
+
+Connect with me 
+Let's connect professionally on LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/róhma-booley-69a065a4)
 
