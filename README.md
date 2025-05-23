@@ -1,5 +1,5 @@
 # Rohma Booley - Digital Portfolio
-Multimedia Applications Student, Aspiring Digital Marketer
+## [Multimedia Applications Student, Aspiring Digital Marketer](https://github.com/rohs-b)
 
 ---
 
