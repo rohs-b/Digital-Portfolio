@@ -35,12 +35,23 @@ R: I discovered a passion for digital marketing and strengthened key skills like
 ## 1. Company Profile
 
 ## 2. Brand Guide
-[View the Bluth Company Brand Guide] (https://github.com/rohs-b/Bluth-Company-Brand-Guide.git)
+[View the Bluth Company Brand Guide](https://github.com/rohs-b/Bluth-Company-Brand-Guide.git)
+
+## 3. Marketing Material
+[View Bluth Company Marketing Material](https://github.com/rohs-b/Bluth-Company-Marketing-Material.git)
+
 ## RB Strength Media
+RB Strength Media is a brand I plan to bring to life once I have my Diploma. 
 ## 1. Brand Guide
-
+[View RB Strength Media Brand Guide](https://github.com/rohs-b/RB-Strength-Media.git)
 ## 2. Media Identity and Logo
-
+[View RB Strength Media Identity and Logo](https://github.com/rohs-b/RB-Strength-Media-Identity-and-Logo.git)
 
 ## Website I've designed for my biography
+[View Wepbpage Accordian Pignation Design](https://github.com/rohs-b/Webpage-Accordian-Pignation-Design.git)
+
+---
+
+## LinkedIn Learning Certificates
+Here are some of the LinkedIn Learning Certificates I have achieved.
 
