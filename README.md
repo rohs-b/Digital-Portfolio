@@ -55,7 +55,10 @@ More avilable on request.
 ---
 ## 🗣️ Business Communication
 ### 🧾 Evidence
-[📄 View Evidence](https://github.com/rohs-b/business-communication.pdf)
+<img width="583" height="703" alt="cover letter 1" src="https://github.com/user-attachments/assets/47c43618-9b10-4b54-b4ae-2b253bde940c" />
+<img width="581" height="750" alt="cover letter 2" src="https://github.com/user-attachments/assets/15955869-5f5c-40ff-968d-b5f615f59bfd" />
+<img width="580" height="237" alt="cover letter 3" src="https://github.com/user-attachments/assets/7a016fc5-5413-4755-ac7f-3e22b9523ab0" />
+
 
 ### 💭 Reflection (STAR Technique)
 **Situation:** During my Work Readiness training, I learned about professional communication in business contexts.  
@@ -67,7 +70,10 @@ More avilable on request.
 
 ## 💬 Interview Skills
 ### 🧾 Evidence
-[📄 View Evidence](https://github.com/yourusername/rohs-b/interview-skills.pdf)
+<img width="1522" height="743" alt="interview" src="https://github.com/user-attachments/assets/ac2bccb8-b65a-4ce7-a105-942652522838" />
+
+<img width="1517" height="750" alt="Polygraph check" src="https://github.com/user-attachments/assets/7d40221c-1145-4c1a-b97d-cf65a40b5cfe" />
+
 
 ### 💭 Reflection (STAR Technique)
 **Situation:** I prepared for mock interviews to test my professional communication.  
@@ -79,7 +85,8 @@ More avilable on request.
 
 ## 🎥 Mock Interview
 ### 🧾 Evidence
-[📄 View Evidence](https://github.com/yourusername/rohs-b/mock-interview.pdf)
+<img width="1827" height="897" alt="mock interview submission" src="https://github.com/user-attachments/assets/3c9d3488-ecfa-4e9b-b432-5345f90cacf2" />
+
 
 ### 💭 Reflection (STAR Technique)
 **Situation:** I participated in a mock interview simulating a real job scenario.  
@@ -103,8 +110,6 @@ More avilable on request.
 ---
 
 ## 🏢 Workplace Etiquette
-### 🧾 Evidence
-[📄 View Evidence](https://github.com/rohs-b/workplace-etiquette.pdf)
 
 ### 💭 Reflection (STAR Technique)
 **Situation:** Understanding professional conduct and ethics is key to success.  
@@ -115,8 +120,6 @@ More avilable on request.
 ---
 
 ## 🧩 CWORKplace Reflection
-### 🧾 Evidence
-[📄 View Evidence](https://github.com/rohs-b/cworkplace-reflection.pdf)
 
 ### 💭 Reflection (STAR Technique)
 **Situation:** Reflecting on the work readiness program and team-based learning.  
