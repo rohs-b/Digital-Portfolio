@@ -91,7 +91,8 @@ More avilable on request.
 
 ## 🌐 Professional Networking
 ### 🧾 Evidence
-[📄 View Evidence](https://github.com/yourusername/rohs-b/professional-networking.pdf)
+<img width="1003" height="530" alt="linkedin" src="https://github.com/user-attachments/assets/268c5246-70ab-4694-82d9-badf6c706bc0" />
+
 
 ### 💭 Reflection (STAR Technique)
 **Situation:** Networking is crucial in the digital marketing field.  
